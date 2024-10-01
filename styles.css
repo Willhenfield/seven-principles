@@ -1,0 +1,45 @@
+body {
+background-color: aliceblue;
+
+max-width: 500px;
+margin-left: auto;
+margin-right: auto;
+font-family: "Rajdhani", sans-serif;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 90%;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-weight: 400;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 16px 24px;
+    border: 2px solid;   text-transform: uppercase;
+}
+
+p {
+    font-size: 16px;
+    text-align: justify;
+    margin: 0 0 32px 0;
+    margin-bottom: 32px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+a:hover{ 
+    background-color: black; 
+    color: antiquewhite;   
+}
+
+
+.indent {
+    text-indent: 32px;
+}
